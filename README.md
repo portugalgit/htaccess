@@ -1,0 +1,2 @@
+# htaccess
+HTACCESS - CLEAN URL
